@@ -1,0 +1,15 @@
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\bin\Debug\net6.0\apiRestaurante.Services.deps.json
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\bin\Debug\net6.0\apiRestaurante.Services.dll
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\bin\Debug\net6.0\apiRestaurante.Services.pdb
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\bin\Debug\net6.0\apiRestaurante.Core.dll
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\bin\Debug\net6.0\apiRestaurante.Core.pdb
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\obj\Debug\net6.0\apiRestaurante.Services.csproj.AssemblyReference.cache
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\obj\Debug\net6.0\apiRestaurante.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\obj\Debug\net6.0\apiRestaurante.Services.AssemblyInfoInputs.cache
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\obj\Debug\net6.0\apiRestaurante.Services.AssemblyInfo.cs
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\obj\Debug\net6.0\apiRestaurante.Services.csproj.CoreCompileInputs.cache
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\obj\Debug\net6.0\apiRestaurante.Services.csproj.CopyComplete
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\obj\Debug\net6.0\apiRestaurante.Services.dll
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\obj\Debug\net6.0\refint\apiRestaurante.Services.dll
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\obj\Debug\net6.0\apiRestaurante.Services.pdb
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Services\obj\Debug\net6.0\ref\apiRestaurante.Services.dll

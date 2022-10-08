@@ -1,0 +1,15 @@
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\bin\Debug\net6.0\apiRestaurante.Infrastructure.deps.json
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\bin\Debug\net6.0\apiRestaurante.Infrastructure.dll
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\bin\Debug\net6.0\apiRestaurante.Infrastructure.pdb
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\bin\Debug\net6.0\apiRestaurante.Core.dll
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\bin\Debug\net6.0\apiRestaurante.Core.pdb
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\obj\Debug\net6.0\apiRestaurante.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\obj\Debug\net6.0\apiRestaurante.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\obj\Debug\net6.0\apiRestaurante.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\obj\Debug\net6.0\apiRestaurante.Infrastructure.AssemblyInfo.cs
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\obj\Debug\net6.0\apiRestaurante.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\obj\Debug\net6.0\apiRestaurante.Infrastructure.csproj.CopyComplete
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\obj\Debug\net6.0\apiRestaurante.Infrastructure.dll
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\obj\Debug\net6.0\refint\apiRestaurante.Infrastructure.dll
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\obj\Debug\net6.0\apiRestaurante.Infrastructure.pdb
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Infrastructure\obj\Debug\net6.0\ref\apiRestaurante.Infrastructure.dll

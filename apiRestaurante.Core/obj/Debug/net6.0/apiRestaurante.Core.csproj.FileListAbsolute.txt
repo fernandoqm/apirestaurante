@@ -1,0 +1,12 @@
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Core\bin\Debug\net6.0\apiRestaurante.Core.deps.json
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Core\bin\Debug\net6.0\apiRestaurante.Core.dll
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Core\bin\Debug\net6.0\apiRestaurante.Core.pdb
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Core\obj\Debug\net6.0\apiRestaurante.Core.csproj.AssemblyReference.cache
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Core\obj\Debug\net6.0\apiRestaurante.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Core\obj\Debug\net6.0\apiRestaurante.Core.AssemblyInfoInputs.cache
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Core\obj\Debug\net6.0\apiRestaurante.Core.AssemblyInfo.cs
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Core\obj\Debug\net6.0\apiRestaurante.Core.csproj.CoreCompileInputs.cache
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Core\obj\Debug\net6.0\apiRestaurante.Core.dll
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Core\obj\Debug\net6.0\refint\apiRestaurante.Core.dll
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Core\obj\Debug\net6.0\apiRestaurante.Core.pdb
+C:\Users\FQUESADA\Documents\Portafolio\Restaurante\apiRestaurante\apiRestaurante.Core\obj\Debug\net6.0\ref\apiRestaurante.Core.dll
