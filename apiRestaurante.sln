@@ -3,21 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiRestaurante.Web", "apiRestaurante.Web\apiRestaurante.Web.csproj", "{CB780492-C808-494B-9EC3-D2D30E662732}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiRestaurante.Web", "apiRestaurante.Web\apiRestaurante.Web.csproj", "{CB780492-C808-494B-9EC3-D2D30E662732}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiRestaurante.Core", "apiRestaurante.Core\apiRestaurante.Core.csproj", "{41AF9445-87D1-4EEB-8C1E-6248C4853F7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiRestaurante.Core", "apiRestaurante.Core\apiRestaurante.Core.csproj", "{41AF9445-87D1-4EEB-8C1E-6248C4853F7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiRestaurante.Services", "apiRestaurante.Services\apiRestaurante.Services.csproj", "{FEA784EB-BD18-4557-AF89-63C3DA878113}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiRestaurante.Services", "apiRestaurante.Services\apiRestaurante.Services.csproj", "{FEA784EB-BD18-4557-AF89-63C3DA878113}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiRestaurante.Infrastructure", "apiRestaurante.Infrastructure\apiRestaurante.Infrastructure.csproj", "{220BC66A-939F-4696-84F2-463A4390535E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiRestaurante.Infrastructure", "apiRestaurante.Infrastructure\apiRestaurante.Infrastructure.csproj", "{220BC66A-939F-4696-84F2-463A4390535E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CB780492-C808-494B-9EC3-D2D30E662732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -36,5 +33,11 @@ Global
 		{220BC66A-939F-4696-84F2-463A4390535E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{220BC66A-939F-4696-84F2-463A4390535E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{220BC66A-939F-4696-84F2-463A4390535E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF8DB0D2-73D7-4954-BC29-326AF10DC9D5}
 	EndGlobalSection
 EndGlobal
